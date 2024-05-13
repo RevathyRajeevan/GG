@@ -1,1 +1,1 @@
-![GG Screenshot](GG screenshot.jpeg)
+![GG Screenshot](GGscreenshot.jpeg)
